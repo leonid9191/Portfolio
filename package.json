@@ -21,8 +21,11 @@
   },
   "browserslist": [
     "last 1 version",
-    "> 1%",
+    "> 5%",
     "maintained node versions",
     "not dead"
-  ]
+  ],
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
 }
