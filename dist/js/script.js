@@ -19,3 +19,6 @@ overlay.addEventListener('click', () => {
 });
 
 
+const dessert = {type: 'pie'};
+dessert.type = 'padding';
+console.log(dessert);
