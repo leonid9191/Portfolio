@@ -1,8 +1,7 @@
 # Portfolio web site
-====================
 
 # Description
-## My website with my projects and information about my background
+My website with my projects and information about my background
 
 # Technolgies
 * HTML + Sass
